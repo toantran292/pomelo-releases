@@ -3,11 +3,11 @@
   <channel>
     <title>Pomelo</title>
     <item>
-      <title>0.10.22</title>
-      <sparkle:version>0.10.22</sparkle:version>
-      <sparkle:shortVersionString>0.10.22</sparkle:shortVersionString>
+      <title>0.10.23</title>
+      <sparkle:version>0.10.23</sparkle:version>
+      <sparkle:shortVersionString>0.10.23</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/toantran292/pomelo-releases/releases/download/v0.10.22/Pomelo-0.10.22.dmg" sparkle:edSignature="LyBVXuTgmkynAlIu20e4sDi+97RIcMEy1OL0oboCTlEOcMsOzfY62DtJqnHedqrAIZ2Gf4HyWHFkcKVU7cmOCg==" length="11657700" type="application/octet-stream" />
+      <enclosure url="https://github.com/toantran292/pomelo-releases/releases/download/v0.10.23/Pomelo-0.10.23.dmg" sparkle:edSignature="iVH8vIW2ruJlLFDWpBtNjIlh4f7GBvN0Xerd/P2/q5hgsvZK9whyOmzem3KktCodv9IfoCZVPC5vug+QYfPvAA==" length="11690549" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
